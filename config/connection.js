@@ -1,7 +1,7 @@
 var mysql = require("mysql");
 
 // Your password
-var password = require("./password");
+var password = require("../password");
     // Then you can call the password with this code:
     // password.getPassword()
 
