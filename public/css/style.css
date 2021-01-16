@@ -1,0 +1,26 @@
+.jumbotron {
+  background-image: url("../img/Juicy_California_Burger.jpg");
+  background-repeat: no-repeat;
+  background-position: right;
+  background-color: #000000;
+  color: #ffffff;
+  margin-top: 3%;
+}
+
+#cyoBurger {
+  color: #5c5c5c;
+}
+
+#leftpanel {
+  background-color: #5c5c5c;
+  color: white;
+  text-align: center;
+  font-size: 1.3em;
+}
+
+#rightpanel {
+  background-color: #e49322;
+  color: white;
+  text-align: center;
+  font-size: 1.3em;
+}
